@@ -1,8 +1,7 @@
 .md-sidebar--primary {
-    left: 0;
-    right: auto;
+    display: none;
 }
 
 .md-sidebar--secondary {
-    left: 0;
+    order: -1;
 }
