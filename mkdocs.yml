@@ -1,6 +1,10 @@
 site_name: LASAR - Anthennas for schools
 theme:
  name: material
+ features:
+  - toc.follow
 site_url: https://lasar-dospace.github.io
 nav:
  - Home: index.md
+extra_css:
+  - stylesheets/extra.css

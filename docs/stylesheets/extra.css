@@ -1,0 +1,15 @@
+/* Hide the main navigation (primary sidebar) */
+.md-sidebar--primary {
+    display: none;
+}
+
+/* Move the TOC sidebar to the left */
+.md-sidebar--secondary {
+    left: 0;
+    right: auto;
+}
+
+/* Adjust page layout so content shifts right */
+.md-content {
+    margin-left: 300px;
+}
