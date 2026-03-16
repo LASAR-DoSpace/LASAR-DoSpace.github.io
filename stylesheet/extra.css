@@ -1,0 +1,8 @@
+.md-sidebar--primary {
+    left: 0;
+    right: auto;
+}
+
+.md-sidebar--secondary {
+    right: 0;
+}
